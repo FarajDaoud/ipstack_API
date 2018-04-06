@@ -49,7 +49,3 @@ function getApiResponse(){
 
     });
 }
-
-function initMap(latitude, longitude) {
-    
-}
