@@ -1,0 +1,22 @@
+.navbar{
+    background: #2B2B2B;
+}
+
+.nav-item{
+    margin-right: 38px;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#googleMap {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.hidden{
+    display: none;
+}
